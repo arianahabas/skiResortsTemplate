@@ -1,0 +1,132 @@
+{
+  "resorts": [
+    {
+      "id": 1,
+      "name": "vail",
+      "elevation": 967,
+      "length": 234,
+      "lifts": 33,
+      "ticket_price": 239
+    },
+    {
+      "id": 2,
+      "name": "telluride",
+      "elevation": 1156,
+      "length": 88.2,
+      "lifts": 16,
+      "ticket_price": 169
+    },
+    {
+      "id": 3,
+      "name": "beaver creek",
+      "elevation": 1233,
+      "length": 150,
+      "lifts": 25,
+      "ticket_price": 239
+    },
+    {
+      "id": 4,
+      "name": "snowmass",
+      "elevation": 1340,
+      "length": 237,
+      "lifts": 20,
+      "ticket_price": 204
+    },
+    {
+      "id": 5,
+      "name": "mammoth mountain",
+      "elevation": 945,
+      "length": 89.8,
+      "lifts": 25,
+      "ticket_price": 209
+    },
+    {
+      "id": 6,
+      "name": "breckenridge",
+      "elevation": 988,
+      "length": 153,
+      "lifts": 35,
+      "ticket_price": 219
+    },
+    {
+      "id": 7,
+      "name": "keystone",
+      "elevation": 816,
+      "length": 135,
+      "lifts": 20,
+      "ticket_price": 176
+    },
+    {
+      "id": 8,
+      "name": "palisades tahoe",
+      "elevation": 855,
+      "length": 100,
+      "lifts": 29,
+      "ticket_price": 209
+    },
+    {
+      "id": 9,
+      "name": "killington",
+      "elevation": 938,
+      "length": 116.8,
+      "lifts": 22,
+      "ticket_price": 165
+    },
+    {
+      "id": 10,
+      "name": "sunday river",
+      "elevation": 707,
+      "length": 84.8,
+      "lifts": 19,
+      "ticket_price": 120
+    },
+    {
+      "id": 11,
+      "name": "heavenly",
+      "elevation": 1059,
+      "length": 94,
+      "lifts": 24,
+      "ticket_price": 164
+    },
+    {
+      "id": 12,
+      "name": "stowe",
+      "elevation": 726,
+      "length": 70,
+      "lifts": 12,
+      "ticket_price": 149
+    },
+    {
+      "id": 13,
+      "name": "park city",
+      "elevation": 969,
+      "length": 250,
+      "lifts": 42,
+      "ticket_price": 229
+    },
+    {
+      "id": 14,
+      "name": "steamboat",
+      "elevation": 1118,
+      "length": 165,
+      "lifts": 17,
+      "ticket_price": 199
+    },
+    {
+      "id": 15,
+      "name": "big sky resort",
+      "elevation": 1326,
+      "length": 250,
+      "lifts": 31,
+      "ticket_price": 194
+    },
+    {
+      "id": 16,
+      "name": "aspen highlands",
+      "elevation": 1108,
+      "length": 135,
+      "lifts": 5,
+      "ticket_price": 204
+    }
+  ]
+}
